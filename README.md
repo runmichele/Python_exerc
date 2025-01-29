@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/821123f0-07ff-48c3-853c-496962a6c592)D🐍 Meu Repositório de Exercícios e Projetos em Python
+🐍 Repositório de Exercícios e Projetos em Python
 
-Bem-vindo ao meu repositório de aprendizado! 🚀  
 Aqui estão exercícios e pequenos projetos feitos para praticar **Python**, explorando desde conceitos básicos até aplicações mais práticas.
 
 ---
