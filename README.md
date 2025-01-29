@@ -42,4 +42,3 @@ Resultado: **15.0**
 
 ---
 
-Criado como parte do meu aprendizado em Python! 💡🚀  
