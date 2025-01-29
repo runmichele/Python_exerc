@@ -1,11 +1,42 @@
-# Python Exercícios
+![image](https://github.com/user-attachments/assets/821123f0-07ff-48c3-853c-496962a6c592)D🐍 Meu Repositório de Exercícios e Projetos em Python
 
-Este repositório contém exercícios em Python, organizados por temas. É um espaço de aprendizado e prática da linguagem.
+Bem-vindo ao meu repositório de aprendizado! 🚀  
+Aqui estão exercícios e pequenos projetos feitos para praticar **Python**, explorando desde conceitos básicos até aplicações mais práticas.
 
-## Estrutura
-- **zip_frutas**: Demonstra o uso da função `zip()` para combinar listas.
+---
 
-## Como Usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Python_exerc.git
+📂 Estrutura do Repositório
+
+📌 Projeto: Calculadora Interativa 🧮
+
+📍 **Localização:** `Projetos/calculadora/Calculadora.py`  
+
+🔹 **Funcionalidades:**
+✔ Soma, Subtração, Multiplicação e Divisão  
+✔ Tratamento de erros (ex: divisão por zero)  
+✔ Interface simples via terminal  
+
+✅ **Exemplo de uso da calculadora**
+
+Escolha uma operação:
+1 - Soma
+2 - Subtração
+3 - Multiplicação
+4 - Divisão
+5 - Sair
+
+Digite o número da operação desejada: **1**
+Digite o primeiro número: **10**
+Digite o segundo número: **5**
+Resultado: **15.0**
+
+💡 **Ideias para Melhorias Futuras**  
+
+📌 Criar novos exercícios de lógica e estrutura de dados  
+📌 Adicionar desafios de automação com Python  
+📌 Expandir a calculadora com funções avançadas  
+📌 Criar um projeto envolvendo análise de dados  
+
+---
+
+Criado como parte do meu aprendizado em Python! 💡🚀  
