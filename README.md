@@ -15,6 +15,8 @@ Aqui estão exercícios e pequenos projetos feitos para praticar **Python**, exp
 ✔ Tratamento de erros (ex: divisão por zero)  
 ✔ Interface simples via terminal  
 
+---
+
 ✅ **Exemplo de uso da calculadora**
 
 Escolha uma operação:
@@ -28,6 +30,8 @@ Digite o número da operação desejada: **1**
 Digite o primeiro número: **10**
 Digite o segundo número: **5**
 Resultado: **15.0**
+
+---
 
 💡 **Ideias para Melhorias Futuras**  
 
