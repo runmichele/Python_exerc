@@ -11,6 +11,7 @@ Aqui estão exercícios e pequenos projetos feitos para praticar **Python**, exp
 📍 **Localização:** `Projetos/calculadora/Calculadora.py`  
 
 🔹 **Funcionalidades:**
+
 ✔ Soma, Subtração, Multiplicação e Divisão  
 ✔ Tratamento de erros (ex: divisão por zero)  
 ✔ Interface simples via terminal  
